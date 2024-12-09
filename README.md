@@ -1,17 +1,8 @@
-# [Miss Rose Bot](https://t.me/MissRose_bot)
+# 𝐆𝐀𝐑𝐎𝐔 𝐑𝐎𝐁𝐎𝐓 • 𝐀 𝐏𝐑𝐎 𝐁𝐎𝐓 𝐑𝐄𝐏𝐎 𝐃𝐄𝐒𝐆𝐈𝐍𝐄𝐃 𝐁𝐘 [𝐋𝐄𝐆𝐈𝐓 𝐃𝐄𝐕](https://t.me/BiteChicks)
 
-### Deploy
+𝐘𝐨𝐮 𝐜𝐚𝐧 𝐅𝐢𝐧𝐝 [𝐆𝐚𝐫𝐨𝐮](https://files.catbox.moe/6ccaia.mp4) 𝐢𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐀𝐬 [@𝐆𝐚𝐫𝐨𝐮_𝐑𝐨𝐯𝐨𝐭](https://t.me/Garou_Robot)
 
-[![Deploy](https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FFayasKKD%2FMiss-Rose-Bot)
-
-### Credits
-
-• [FayasKKD](https://github.com/FayasKKD/Bio) for this Repository 
-
-• [Paul Larsen](https://github.com/PaulSonOfLars) for his [tgbot](https://github.com/PaulSonOfLars/tgbot) Repository and [Miss Rose Bot](https://t.me/MissRose_bot)
-
-• [Dan Tes](https://github.com/delivrance) For his [Pyrogram](https://docs.pyrogram.org/) Library
-
-## Profile
-
-![Rose Profile](https://telegra.ph/file/718d48493d1fb11197d8b.jpg)
+➻sᴜɴɢ ɪs ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ sᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴘʟᴜɢɪɴs.
+────────────────── 
+ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs.
+➛ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs.
