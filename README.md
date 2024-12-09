@@ -1,1 +1,5 @@
 # Garou
+
+DEPLOY ON HEROKU
+
+# BNA NE TO DE MDC
